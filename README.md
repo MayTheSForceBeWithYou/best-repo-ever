@@ -1,3 +1,3 @@
 # best-repo-ever
 Salesforce Trailhead git module repo
-Best. Repo. Ever.
+Awesomest. Repo. Ever.
